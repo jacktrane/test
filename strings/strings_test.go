@@ -58,6 +58,7 @@ func TestFindFirstOnceStr(t *testing.T) {
 		}
 	}
 
+	// test1
 	// test/rebase merge
 	fmt.Println(string(ans))
 
