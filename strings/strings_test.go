@@ -64,5 +64,6 @@ func TestFindFirstOnceStr(t *testing.T) {
 	// test4
 	// test/rebase merge
 	fmt.Println(string(ans))
-
+	// I want to test rebase
+	// main merge
 }
