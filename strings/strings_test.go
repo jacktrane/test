@@ -59,4 +59,5 @@ func TestFindFirstOnceStr(t *testing.T) {
 	}
 
 	fmt.Println(string(ans))
+
 }
